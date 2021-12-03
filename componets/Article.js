@@ -13,4 +13,4 @@ function Article({articles}) {
     )
 }
 
-export default Article
+export default Article;
